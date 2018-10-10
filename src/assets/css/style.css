@@ -7901,90 +7901,116 @@ pre {
 
 .col-4 {
   flex: 0 0 33.33333%;
-  max-width: 33.33333%; }
+  max-width: 33.33333%;
+}
 
 .col-5 {
   flex: 0 0 41.66667%;
-  max-width: 41.66667%; }
+  max-width: 41.66667%;
+}
 
 .col-6 {
   flex: 0 0 50%;
-  max-width: 50%; }
+  max-width: 50%;
+}
 
 .col-7 {
   flex: 0 0 58.33333%;
-  max-width: 58.33333%; }
+  max-width: 58.33333%;
+}
 
 .col-8 {
   flex: 0 0 66.66667%;
-  max-width: 66.66667%; }
+  max-width: 66.66667%;
+}
 
 .col-9 {
   flex: 0 0 75%;
-  max-width: 75%; }
+  max-width: 75%;
+}
 
 .col-10 {
   flex: 0 0 83.33333%;
-  max-width: 83.33333%; }
+  max-width: 83.33333%;
+}
 
 .col-11 {
   flex: 0 0 91.66667%;
-  max-width: 91.66667%; }
+  max-width: 91.66667%;
+}
 
 .col-12 {
   flex: 0 0 100%;
-  max-width: 100%; }
+  max-width: 100%;
+}
 
 .order-first {
-  order: -1; }
+  order: -1;
+}
 
 .order-last {
-  order: 13; }
+  order: 13;
+}
 
 .order-0 {
-  order: 0; }
+  order: 0;
+}
 
 .order-1 {
-  order: 1; }
+  order: 1;
+}
 
 .order-2 {
-  order: 2; }
+  order: 2;
+}
 
 .order-3 {
-  order: 3; }
+  order: 3;
+}
 
 .order-4 {
-  order: 4; }
+  order: 4;
+}
 
 .order-5 {
-  order: 5; }
+  order: 5;
+}
 
 .order-6 {
-  order: 6; }
+  order: 6;
+}
 
 .order-7 {
-  order: 7; }
+  order: 7;
+}
 
 .order-8 {
-  order: 8; }
+  order: 8;
+}
 
 .order-9 {
-  order: 9; }
+  order: 9;
+}
 
 .order-10 {
-  order: 10; }
+  order: 10;
+}
 
 .order-11 {
-  order: 11; }
+  order: 11;
+}
 
 .order-12 {
-  order: 12; }
+  order: 12;
+}
 
 .offset-1 {
-  margin-left: 8.33333%; }
+  margin-left: 8.33333%;
+}
 
 .offset-2 {
-  margin-left: 16.66667%; }
+  margin-left: 16.66667%;
+}
 
 .offset-3 {
   margin-left: 25%; }
@@ -8016,101 +8042,183 @@ pre {
   .col-xl {
     flex-basis: 0;
     flex-grow: 1;
-    max-width: 100%; }
+    max-width: 100%;
+  }
+
   .col-xl-auto {
     flex: 0 0 auto;
     width: auto;
-    max-width: none; }
+    max-width: none;
+  }
+
   .col-xl-1 {
     flex: 0 0 8.33333%;
-    max-width: 8.33333%; }
+    max-width: 8.33333%;
+  }
+
   .col-xl-2 {
     flex: 0 0 16.66667%;
-    max-width: 16.66667%; }
+    max-width: 16.66667%;
+  }
+
   .col-xl-3 {
     flex: 0 0 25%;
-    max-width: 25%; }
+    max-width: 25%;
+  }
+
   .col-xl-4 {
     flex: 0 0 33.33333%;
-    max-width: 33.33333%; }
+    max-width: 33.33333%;
+  }
+
   .col-xl-5 {
     flex: 0 0 41.66667%;
-    max-width: 41.66667%; }
+    max-width: 41.66667%;
+  }
+
   .col-xl-6 {
     flex: 0 0 50%;
-    max-width: 50%; }
+    max-width: 50%;
+  }
+
   .col-xl-7 {
     flex: 0 0 58.33333%;
-    max-width: 58.33333%; }
+    max-width: 58.33333%;
+  }
+
   .col-xl-8 {
     flex: 0 0 66.66667%;
-    max-width: 66.66667%; }
+    max-width: 66.66667%;
+  }
+
   .col-xl-9 {
     flex: 0 0 75%;
-    max-width: 75%; }
+    max-width: 75%;
+  }
+
   .col-xl-10 {
     flex: 0 0 83.33333%;
-    max-width: 83.33333%; }
+    max-width: 83.33333%;
+  }
+
   .col-xl-11 {
     flex: 0 0 91.66667%;
-    max-width: 91.66667%; }
+    max-width: 91.66667%;
+  }
+
   .col-xl-12 {
     flex: 0 0 100%;
-    max-width: 100%; }
+    max-width: 100%;
+  }
+
   .order-xl-first {
-    order: -1; }
+    order: -1;
+  }
+
   .order-xl-last {
-    order: 13; }
+    order: 13;
+  }
+
   .order-xl-0 {
-    order: 0; }
+    order: 0;
+  }
+
   .order-xl-1 {
-    order: 1; }
+    order: 1;
+  }
+
   .order-xl-2 {
-    order: 2; }
+    order: 2;
+  }
+
   .order-xl-3 {
-    order: 3; }
+    order: 3;
+  }
+
   .order-xl-4 {
-    order: 4; }
+    order: 4;
+  }
+
   .order-xl-5 {
-    order: 5; }
+    order: 5;
+  }
+
   .order-xl-6 {
-    order: 6; }
+    order: 6;
+  }
+
   .order-xl-7 {
-    order: 7; }
+    order: 7;
+  }
+
   .order-xl-8 {
-    order: 8; }
+    order: 8;
+  }
+
   .order-xl-9 {
-    order: 9; }
+    order: 9;
+  }
+
   .order-xl-10 {
-    order: 10; }
+    order: 10;
+  }
+
   .order-xl-11 {
-    order: 11; }
+    order: 11;
+  }
+
   .order-xl-12 {
-    order: 12; }
-  .offset-xl-0 {
-    margin-left: 0; }
-  .offset-xl-1 {
-    margin-left: 8.33333%; }
+    order: 12;
+  }
+
+    .offset-xl-0 {
+    margin-left: 0;
+  }
+
+    .offset-xl-1 {
+    margin-left: 8.33333%;
+  }
+
   .offset-xl-2 {
-    margin-left: 16.66667%; }
+    margin-left: 16.66667%;
+  }
+
   .offset-xl-3 {
-    margin-left: 25%; }
+    margin-left: 25%;
+  }
+
   .offset-xl-4 {
-    margin-left: 33.33333%; }
-  .offset-xl-5 {
-    margin-left: 41.66667%; }
-  .offset-xl-6 {
-    margin-left: 50%; }
-  .offset-xl-7 {
-    margin-left: 58.33333%; }
+    margin-left: 33.33333%;
+  }
+
+    .offset-xl-5 {
+    margin-left: 41.66667%;
+  }
+
+    .offset-xl-6 {
+    margin-left: 50%;
+  }
+
+    .offset-xl-7 {
+    margin-left: 58.33333%;
+  }
+
   .offset-xl-8 {
-    margin-left: 66.66667%; }
+    margin-left: 66.66667%;
+  }
+
   .offset-xl-9 {
-    margin-left: 75%; }
-  .offset-xl-10 {
-    margin-left: 83.33333%; }
-  .offset-xl-11 {
-    margin-left: 91.66667%; } }
+    margin-left: 75%;
+  }
+
+    .offset-xl-10 {
+    margin-left: 83.33333%;
+  }
+
+    .offset-xl-11 {
+    margin-left: 91.66667%;
+  }
+
 
 .table {
   width: 100%;
@@ -8617,7 +8725,7 @@ select.form-control-lg:not([size]):not([multiple]), .input-group-lg > select.for
   align-items: center; }
   .form-inline .form-check {
     width: 100%; }
- 
+
 .btn {
   display: inline-block;
   font-weight: 400;
@@ -9074,7 +9182,7 @@ input[type="button"].btn-block {
   height: 0;
   overflow: hidden;
   transition: height 0.35s ease; }
-  
+
 
 
 .dropup,
@@ -10942,7 +11050,7 @@ button.close {
   transition: transform 0.6s ease;
   backface-visibility: hidden;
   perspective: 1000px; }
-  
+
 .carousel-item.active,
 .carousel-item-next,
 .carousel-item-prev {
@@ -13046,7 +13154,7 @@ html {
   flex-grow: 1; }
 
 .container-scroller {
-  overflow: hidden; 
+  overflow: hidden;
 }
 
 .scroll-container {
@@ -14941,7 +15049,8 @@ ul {
   border-radius: 4px;
   box-shadow: 0 -25px 37.7px 11.3px rgba(8, 143, 220, 0.07); }
   .auth.theme-one .auto-form-wrapper .form-group .input-group {
-    height: 44px; }
+    /* height: 44px;  */
+  }
     .auth.theme-one .auto-form-wrapper .form-group .input-group .form-control {
       border: 1px solid #e5e5e5;
       border-right: none;
@@ -15052,7 +15161,8 @@ ul {
           margin-right: auto;
           margin-left: auto; } }
       .auth.theme-two .auto-form-wrapper form .form-group .input-group {
-        height: 44px; }
+        /* height: 44px;  */
+      }
         .auth.theme-two .auto-form-wrapper form .form-group .input-group .form-control {
           border: 1px solid #e5e5e5;
           border-left: none;
